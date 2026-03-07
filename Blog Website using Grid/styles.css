@@ -1,0 +1,32 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+body {
+    height: 100%;
+    width: 100%;
+}
+
+.container{
+    max-width: 95vw;
+    padding: 2rem 1rem;
+    margin: 0 auto;
+}
+
+.header_container {
+    margin-bottom: 2.8rem;
+    max-width: 500px;
+}
+
+.header_title {
+    text-align: center;
+    margin-bottom: 1rem;
+}
+
+.header_disc {
+    max-width: 500px;
+    text-align: center;
+    color: red;
+}

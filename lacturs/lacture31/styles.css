@@ -1,0 +1,17 @@
+* {
+    padding: 0px;
+    margin:  0px;
+    box-sizing: border-box;
+}
+
+.container {
+    display: grid;
+    gap: rem;
+    background-color: rgb(71, 65, 65);
+}
+
+
+.item{  
+    border: 5px solid black;
+    background-color: rgb(85, 85, 288);
+}
